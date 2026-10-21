@@ -1,0 +1,19 @@
+scenario,region,wh_per_request,liters_per_10k,liters_per_1M
+Li et al. GPT-3 request (4 Wh),U.S. Average,4.0,169.04559999999998,16904.559999999998
+Li et al. GPT-3 request (4 Wh),Arizona,4.0,299.2648,29926.48
+Li et al. GPT-3 request (4 Wh),Georgia*,4.0,105.84320000000001,10584.320000000002
+Li et al. GPT-3 request (4 Wh),Illinois,4.0,150.18200000000002,15018.2
+Li et al. GPT-3 request (4 Wh),Iowa,4.0,149.6256,14962.56
+Li et al. GPT-3 request (4 Wh),Texas,4.0,75.8944,7589.4400000000005
+Li et al. GPT-3 request (4 Wh),Virginia,4.0,114.356,11435.599999999999
+Li et al. GPT-3 request (4 Wh),Washington,4.0,475.0459999999999,47504.599999999984
+Li et al. GPT-3 request (4 Wh),Wyoming,4.0,119.4856,11948.560000000001
+Elsworth et al. Gemini median prompt (0.22 Wh),U.S. Average,0.22,9.297508,929.7508
+Elsworth et al. Gemini median prompt (0.22 Wh),Arizona,0.22,16.459564,1645.9564
+Elsworth et al. Gemini median prompt (0.22 Wh),Georgia*,0.22,5.821376000000002,582.1376000000001
+Elsworth et al. Gemini median prompt (0.22 Wh),Illinois,0.22,8.260010000000001,826.0010000000001
+Elsworth et al. Gemini median prompt (0.22 Wh),Iowa,0.22,8.229408000000001,822.9408000000001
+Elsworth et al. Gemini median prompt (0.22 Wh),Texas,0.22,4.174192,417.4192
+Elsworth et al. Gemini median prompt (0.22 Wh),Virginia,0.22,6.28958,628.958
+Elsworth et al. Gemini median prompt (0.22 Wh),Washington,0.22,26.127529999999993,2612.7529999999992
+Elsworth et al. Gemini median prompt (0.22 Wh),Wyoming,0.22,6.571708,657.1708000000001
